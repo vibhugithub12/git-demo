@@ -1,4 +1,6 @@
 I'm writing a story.
 Testing git-GitHub.
 Adding this line directly on github
-and this one too.
+and this line too.
+
+Another local change
