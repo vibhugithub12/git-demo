@@ -1,2 +1,2 @@
 # git-demo
-Master changes.
+Master is one.
